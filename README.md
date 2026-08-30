@@ -6,19 +6,19 @@ Features
 
 * Automatic NSIS script generation
 
-One-click installer compilation
+* One-click installer compilation
 
-Custom installer icon support
+* Custom installer icon support
 
-Random dark GUI themes
+* Random dark GUI themes
 
-Automatic inclusion of all files from the selected source folder
+* Automatic inclusion of all files from the selected source folder
 
-Built-in error checking for missing folders and NSIS
+* Built-in error checking for missing folders and NSIS
 
-Creates uninstall entries automatically
+* Creates uninstall entries automatically
 
-Beginner-friendly interface
+* Beginner-friendly interface
 
 
 <img width="847" height="584" alt="image" src="https://github.com/user-attachments/assets/f8fc7668-4784-476e-ac24-78ed898fe1f1" />
