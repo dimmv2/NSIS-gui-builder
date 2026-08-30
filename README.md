@@ -2,6 +2,14 @@
 
 NSIS Builder is a simple Python GUI application that creates NSIS installers without manually editing .nsi files. It generates the installer script automatically, lets you choose the application folder, icon, installer name, and theme, then compiles everything into a ready-to-use installer.
 
+Requirements
+
+* NSIS (Nullsoft Scriptable Install System) must be installed before using this application.
+
+* Python 3.x
+
+* FreeSimpleGUI
+
 Features
 
 * Automatic NSIS script generation
